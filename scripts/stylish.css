@@ -1,0 +1,38 @@
+﻿body {
+    width: 1500px;
+    
+}
+.gridcontainermain{
+    width:1000px;
+    background-color:#f9e7fe49;
+    font-family:'DejaVu Sans';
+    image-resolution:400dpi;
+    text-align:center;
+}
+.display{
+    opacity:0%;
+}
+.gridcontaineruk {
+    width: 1000px;
+    background-color: #f9e7fe49;
+    font-family: 'DejaVu Sans';
+    image-resolution: 400dpi;
+}
+.gridcontainereurope {
+    width: 1000px;
+    background-color: #f9e7fe49;
+    font-family: 'DejaVu Sans';
+    image-resolution: 400dpi;
+}
+.gridcontainerasia {
+    width: 1000px;
+    background-color: #fde5dfaf;
+    font-family: 'DejaVu Sans';
+    image-resolution: 400dpi;
+}
+.gridcontainerusa {
+    width: 1000px;
+    background-color: #f9e7fe49;
+    font-family: 'Century Gothic';
+    image-resolution: 400dpi;
+}
